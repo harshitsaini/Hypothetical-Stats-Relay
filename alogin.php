@@ -8,6 +8,8 @@
     <link rel="icon" type="image/gif" href="larger_blinking_text_cursor_by_neripixu-d6lwrhn.gif" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
      <!--<link rel="stylesheet" href="login2.css">-->
+     <!--<link rel="stylesheet" href="login2.css">-->
+     <!--<link rel="stylesheet" href="login2.css">-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://www.w3schools.com/lib/w3.js"></script>
