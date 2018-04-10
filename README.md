@@ -1,0 +1,2 @@
+# Hypothetical-Stats-Relay
+DOCUMENTATION UNDER CONSTRUCTION :)
